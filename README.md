@@ -1,5 +1,5 @@
 # parsing-bank-statements
-This repository contains the Jupyter Notebook to parse through various local bank statements (PDF/csv) into an Excel sheet.
+This repository contains the Jupyter Notebook to parse through various local (Singapore) bank statements (PDF/csv) into an Excel sheet.
 
 Local banks statement used:
 1) OCBC
